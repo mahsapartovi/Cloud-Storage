@@ -10,3 +10,4 @@ Project features:
   3) Authentication with HTTP protocol
   4) Collect users statistics
   5) project has docker image
+  6) Having a simple UI for the system
